@@ -5,10 +5,11 @@ With today's technologies, it is quite easy to crack it.
 
 ## How XOR works
 
-0 ⊕ 0 = 0
-0 ⊕ 1 = 1
-0 ⊕ 1 = 1
-1 ⊕ 1 = 0
+- 0 ⊕ 0 = 0
+- 0 ⊕ 1 = 1
+- 1 ⊕ 0 = 1
+- 1 ⊕ 1 = 0
+
 
 ## How to Compile and Run
 
